@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<extension key="uk.co.nfpservices.contributionpagescustomisation" type="module">
+  <file>contributionpagescustomisation</file>
+  <name>CiviCRM Contribution Pages Customisation</name>
+  <description>Minor Customisation of CiviCRM Contribution Pages when user signs up for Free or Paid Membership.</description>
+  <license>aGPL</license>
+  <maintainer>
+    <author>Rajesh</author>
+    <email>rajeshrhino@gmail.com</email>
+  </maintainer>
+  <releaseDate>2013-11-25</releaseDate>
+  <version>1.0</version>
+  <develStage>alpha</develStage>
+  <compatibility>
+    <ver>4.3</ver>
+  </compatibility>
+  <comments></comments>
+  <civix>
+    <namespace>CRM/Contributionpagescustomisation</namespace>
+  </civix>
+</extension>
